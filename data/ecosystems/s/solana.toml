@@ -576,3 +576,9 @@ url = "https://gitlab.com/sigrlami/omuon"
 
 [[repo]]
 url = "https://github.com/distributedtown/distributed-town-backend"
+
+[[repo]]
+url = "https://github.com/mvines/solana-cli-template"
+
+[[repo]]
+url = "https://github.com/mvines/solana-bpf-program-template"
